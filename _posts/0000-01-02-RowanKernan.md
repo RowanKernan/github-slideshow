@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Stop I could have dropped my croissant
 Use the left arrow to go back!
